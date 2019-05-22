@@ -1,2 +1,2 @@
 # applications
-real data set applications of FDSLRM
+Jupyter notebooks with real data set applications of FDSLRM
