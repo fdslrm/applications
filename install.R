@@ -1,5 +1,4 @@
 install.packages('nlme')
-install.packages('CVXR')
 install.packages('sommer')
 install.packages('pracma')
 install.packages('IRdisplay')
