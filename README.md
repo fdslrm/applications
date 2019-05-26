@@ -1,6 +1,6 @@
 # Applications of FDSLRM
 
-10 Jupyter notebooks with real data set applications of FDSLRM, mainly in econometrics [![render in nbviewer](nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/applications/master?filepath=index.ipynb) 
+10 Jupyter notebooks with real data set applications of FDSLRM, mainly in econometrics [![render in nbviewer](nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/applications/blob/master/index.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/applications/master?filepath=index.ipynb) 
   
 The notebooks folder ([`notebooks`](notebooks)) contain R based Jupyter notebooks which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
